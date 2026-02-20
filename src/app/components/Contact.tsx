@@ -40,7 +40,7 @@ export function Contact() {
       icon: MessageCircle,
       title: 'Discord',
       value: 'Join Server',
-      href: 'https://discord.gg/bjTV6Tmc',
+      href: 'https://discord.gg/KPcMjfUpkQ',
       gradient: 'from-indigo-500 to-blue-500'
     }
   ];
